@@ -1,0 +1,20 @@
+{
+    "name": "lepresk/momoclient",
+    "description": "MTN Mobile Money Api Client",
+    "type": "library",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "lepresk",
+            "email": "lepresk@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Lepresk\\MomoApi\\": "src/"
+        }
+    }
+}
