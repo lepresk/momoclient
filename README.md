@@ -5,7 +5,7 @@ MTN Mobile Money Api Client
 ```php
 use Lepresk\MomoApi\MomoApiClient;
 
-$subscriptionKey = '563b7379b24145ecad85ab2989869a07';
+$subscriptionKey = 'YOUR SUBCRIPTION KEY';
 $callbackHost = 'myHost.com';
 
 MomoApiClient::setup($subscriptionKey);
